@@ -1,14 +1,23 @@
 import styles from "./City.module.css";
+import { useParams } from "react-router-dom";
+import { useSearchParams } from "react-router-dom";
 
 const formatDate = (date) =>
   new Intl.DateTimeFormat("en", {
     day: "numeric",
     month: "long",
     year: "numeric",
-    weekday: "long",
   }).format(new Date(date));
 
 function City() {
+
+  const { id } = useParams();
+
+  const [ searchParams, setSearchParams ] = useSearchParams();
+
+  const lat = searchParams.get("lat");
+  const lng = searchParams.get("lng");
+
   // TEMP DATA
   const currentCity = {
     cityName: "Lisbon",
@@ -52,7 +61,7 @@ function City() {
       </div>
 
       <div>
-        <ButtonBack />
+        {/* <ButtonBack /> */}
       </div>
     </div>
   );
