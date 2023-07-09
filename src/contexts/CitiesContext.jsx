@@ -1,12 +1,8 @@
 import { createContext, useState, useEffect, useContext } from "react";
-
 const CitiesContext = createContext();
-
 const BASE_URL = 'http://localhost:9000';
 
-
 function CitiesProvider({children}){
-
 
   const [ cities, setCities ] = useState([]);
   const [ isLoading, setIsLoading ] = useState(false);
