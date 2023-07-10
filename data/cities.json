@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -35,6 +23,30 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Rayachoti",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-07-10T10:32:06.868Z",
+      "notes": "i live here",
+      "position": {
+        "lat": "14.042005152026157",
+        "lng": "78.75823974609376"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Puebla de Don Rodrigo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-10T11:15:49.705Z",
+      "notes": "nice day here",
+      "position": {
+        "lat": "39.13006024213511",
+        "lng": "-4.724121093750001"
+      },
+      "id": 98443199
     }
   ]
 }
