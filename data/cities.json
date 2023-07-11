@@ -1,52 +1,40 @@
 {
   "cities": [
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "cityName": "Le Poinconnet",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-07-10T18:13:03.697Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "46.73986059969267",
+        "lng": "1.7358398437500002"
       },
-      "id": 17806751
+      "id": 98443201
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Bernieres-d'Ailly",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-07-10T18:13:18.288Z",
+      "notes": "",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "48.951366470947725",
+        "lng": "-0.10986328125000001"
       },
-      "id": 98443197
+      "id": 98443202
     },
     {
-      "cityName": "Rayachoti",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2023-07-10T10:32:06.868Z",
-      "notes": "i live here",
-      "position": {
-        "lat": "14.042005152026157",
-        "lng": "78.75823974609376"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Puebla de Don Rodrigo",
+      "cityName": "Les Valls de Valira",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2023-07-10T11:15:49.705Z",
-      "notes": "nice day here",
+      "date": "2023-07-10T18:14:16.941Z",
+      "notes": "",
       "position": {
-        "lat": "39.13006024213511",
-        "lng": "-4.724121093750001"
+        "lat": "42.407234661551875",
+        "lng": "1.5820312500000002"
       },
-      "id": 98443199
+      "id": 98443204
     }
   ]
 }
