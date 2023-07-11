@@ -2,6 +2,9 @@
 
 WorldWise is a React-based web application that allows users to track and share their travel experiences. It provides a user-friendly interface with a list of visited cities, a world map for visual representation, and a form to record memorable moments and activities.
 
+
+![worldwide-ss](https://github.com/afreen0102/Worldwide/assets/121170547/67ac183e-ef60-4263-aa89-a2edb290f121)
+
 ## Installation🚀
 
 1. Clone the repository: `git clone https://github.com/your-username/worldwise.git`
