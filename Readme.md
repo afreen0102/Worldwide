@@ -37,6 +37,3 @@ This will launch the app in your browser at `http://localhost:3000`.
 - [react-datepicker](https://www.npmjs.com/package/react-datepicker) - Date picker component for React.
 - [react-router-dom](https://www.npmjs.com/package/react-router-dom) - Routing library for React applications.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
